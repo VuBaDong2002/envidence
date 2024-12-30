@@ -1,0 +1,7 @@
+# This file was automatically generated
+name: metricda
+type: postgres
+options:
+  host: sv6.beecost.net
+  port: 35435
+  database: metricdb10
